@@ -6,4 +6,4 @@
 3. Courses
 4. My contacts 
 
-## You can see the result here [My web-sit](https://antondementiev.github.io/Test_site_HTML-CSS/)
+## You can see the result here: [Result](https://antondementiev.github.io/Test_site_HTML-CSS/)
